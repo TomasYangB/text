@@ -19,6 +19,8 @@ class ViewController: UIViewController {
         let a = UIView.init()
         a.backgroundColor = UIColor.cyan()
         //这是什么情况
+//        不认证是不是114
+    
         
     }
 
