@@ -15,9 +15,9 @@ class ViewController: UIViewController {
         
         
         
-        self.view.backgroundColor = UIColor.red()
+        self.view.backgroundColor = UIColor.redColor()
         let a = UIView.init()
-        a.backgroundColor = UIColor.cyan()
+        a.backgroundColor = UIColor.cyanColor()
         //这是什么情况
 //        不认证是不是114
     
